@@ -1,0 +1,7 @@
+*/htmlcov/*
+/.gitignore
+.coverage
+.coveragerc
+.idea/*
+*.pyc
+MyDigitalHealth/migrations/*
